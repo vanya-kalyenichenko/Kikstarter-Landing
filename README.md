@@ -1,4 +1,17 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Kickstarter Landing.
+
+- Languages:
+
+  ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
+  ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
+
+- Frameworks and libraries:
+
+  ![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg)
+  ![jQuery](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
+
+- Responsive design
+
+#
+- [DEMO LINK](https://vanya-kalyenichenko.github.io/Kikstarter-Landing/)
