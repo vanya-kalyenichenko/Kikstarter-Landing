@@ -1,0 +1,2 @@
+const e=document.querySelector(".back-top");window.addEventListener("scroll",function(){window.scrollY>=500?e.style.opacity="1":e.style.opacity="0"}),e.addEventListener("click",()=>{window.scrollTo({top:0,left:0,behavior:"smooth"})});const o=document.body,t=document.querySelector(".page__menu");document.querySelector(".icon--menu").addEventListener("click",()=>{o.classList.add("unscroll")}),t.addEventListener("click",()=>{o.classList.remove("unscroll")});
+//# sourceMappingURL=index.1bdbd50b.js.map
