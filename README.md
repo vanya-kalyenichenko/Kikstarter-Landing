@@ -9,7 +9,6 @@
 - Frameworks and libraries:
 
   ![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg)
-  ![jQuery](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
 
 - Responsive design
 
